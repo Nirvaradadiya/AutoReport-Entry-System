@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+hospital_reports/
+uploads/
+*.xlsx
+*.pdf
