@@ -4,3 +4,4 @@ hospital_reports/
 uploads/
 *.xlsx
 *.pdf
+.vscode/
